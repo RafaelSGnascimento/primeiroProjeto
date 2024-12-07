@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "breakContinue",
+            "request": "launch",
+            "mainClass": "breakContinue",
+            "projectName": "Formacao-java-developer-dio_ebb8b1ad"
+        },
+        {
+            "type": "java",
+            "name": "condicaoTernaria",
+            "request": "launch",
+            "mainClass": "condicaoTernaria",
+            "projectName": "Formacao-java-developer-dio_ebb8b1ad"
+        },
+        {
+            "type": "java",
+            "name": "condicionalComposta",
+            "request": "launch",
+            "mainClass": "condicionalComposta",
+            "projectName": "Formacao-java-developer-dio_ebb8b1ad"
+        },
+        {
+            "type": "java",
+            "name": "condicionalEncadeada",
+            "request": "launch",
+            "mainClass": "condicionalEncadeada",
+            "projectName": "Formacao-java-developer-dio_ebb8b1ad"
+        },
+        {
+            "type": "java",
+            "name": "condicionalSimples",
+            "request": "launch",
+            "mainClass": "condicionalSimples",
+            "projectName": "Formacao-java-developer-dio_ebb8b1ad"
+        },
+        {
+            "type": "java",
+            "name": "forEmArrays",
+            "request": "launch",
+            "mainClass": "forEmArrays",
+            "projectName": "Formacao-java-developer-dio_ebb8b1ad"
+        },
+        {
+            "type": "java",
+            "name": "repeticaoFor",
+            "request": "launch",
+            "mainClass": "repeticaoFor",
+            "projectName": "Formacao-java-developer-dio_ebb8b1ad"
+        },
+        {
+            "type": "java",
+            "name": "repeticaoWhile",
+            "request": "launch",
+            "mainClass": "repeticaoWhile",
+            "projectName": "Formacao-java-developer-dio_ebb8b1ad"
+        },
+        {
+            "type": "java",
+            "name": "switchCase",
+            "request": "launch",
+            "mainClass": "switchCase",
+            "projectName": "Formacao-java-developer-dio_ebb8b1ad"
+        }
+    ]
+}
