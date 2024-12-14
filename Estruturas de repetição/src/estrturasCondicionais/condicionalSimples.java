@@ -1,3 +1,4 @@
+package estrturasCondicionais;
 public class condicionalSimples {
     public static void main(String[] args){
         //variveis declaradas.

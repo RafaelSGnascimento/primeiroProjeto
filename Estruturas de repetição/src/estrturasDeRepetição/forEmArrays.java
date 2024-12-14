@@ -1,3 +1,4 @@
+package estrturasDeRepetição;
 public class forEmArrays {
     public static void main(String[] args) {
         String alunos [] = {"Felipe","Jonas","Julia","Marcos"};

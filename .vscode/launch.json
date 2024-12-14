@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Problem",
+            "request": "launch",
+            "mainClass": "Problem",
+            "projectName": "Formacao-java-developer-dio_ebb8b1ad"
+        },
+        {
+            "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "Formacao-java-developer-dio_ebb8b1ad"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

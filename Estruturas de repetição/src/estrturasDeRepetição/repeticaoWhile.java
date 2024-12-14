@@ -1,3 +1,4 @@
+package estrturasDeRepetição;
 import java.util.Random;
 public class repeticaoWhile {
     public static void main(String[] args) {
