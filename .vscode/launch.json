@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "finalilzandoEstrturasDeRepetição.Contador",
+            "projectName": "Formacao-java-developer-dio_ebb8b1ad"
+        },
+        {
+            "type": "java",
+            "name": "processoSeletivo",
+            "request": "launch",
+            "mainClass": "finalilzandoEstrturasDeRepetição.processoSeletivo",
+            "projectName": "Formacao-java-developer-dio_ebb8b1ad"
+        },
+        {
+            "type": "java",
             "name": "Problem",
             "request": "launch",
             "mainClass": "Problem",
